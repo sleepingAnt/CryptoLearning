@@ -13,7 +13,8 @@
     "astro": "^4.4.15",
     "@astrojs/check": "^0.5.6",
     "typescript": "^5.4.2",
-    "ai-helper-jimmy": "1.2.1"
+    "ai-helper-jimmy": "1.2.1",
+    "social-group-share": "0.0.1"
   },
   "repository": {
 	"type": "git",
